@@ -472,21 +472,7 @@ if [ -f banner ]; then
 fi;
 
 ui_print "=======================================";
-ui_print "             ,:\      ,:\              ";
-ui_print "            ______            ";
-ui_print "               ARIF               ";
-ui_print "             MUNANDAR             ";
-ui_print "             EXTRAJOS             ";
-ui_print "                 ||           ";
-ui_print "                 ||           ";
-ui_print "              \  /   ||           ";
-ui_print "              /  \   ||           ";
-ui_print "             /  XX  \             ";
-ui_print "            /   XX   \            ";
-ui_print "            \   XX   /            ";
-ui_print "             \  OO  /             ";
-ui_print "              \ OO /              ";
-ui_print "           __||           ";
+ui_print " Xirlect Kernel New GENERATION For Asus X01AD";
 ui_print " =====================================";
 ui_print " ";
 ui_print "- Introducing $(file_getprop anykernel.sh kernel.string)";
@@ -521,4 +507,4 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
 fi;
 
 ui_print " " " " "Berhasil!";
-ui_print " " " " "ExtraJoss Kernel Telah Anda Install, Silahkan Nikmati!!!";
+ui_print " " " " "Xirlect Kernel Telah Anda Install, Silahkan Nikmati!!!";
