@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Xirlect Kernel
+kernel.string=ExtraJoss Kernel
 maintainer.string1=Arif Munandar
 maintainer.string2=Not Found
 do.devicecheck=1
